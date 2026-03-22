@@ -25,6 +25,9 @@ export const metadata: Metadata = {
     description: "One article → LinkedIn, Twitter, Instagram & Email in 30 seconds. Free AI content repurposing tool.",
     creator: "@repostai",
   },
+  verification: {
+    google: '16395cb7089519c2',
+  },
   robots: {
     index: true,
     follow: true,
