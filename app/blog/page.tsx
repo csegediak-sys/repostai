@@ -8,6 +8,22 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'content-repurposing-strategy-2026',
+    title: 'Content Repurposing Strategy 2026: The Complete Playbook',
+    description: 'One piece of content, 20+ posts. The exact repurposing system used by top content creators in 2026 — platform by platform, step by step.',
+    date: 'March 22, 2026',
+    readTime: '8 min read',
+    tag: 'Strategy',
+  },
+  {
+    slug: 'how-to-write-linkedin-posts-get-engagement',
+    title: 'How to Write LinkedIn Posts That Get 10x More Engagement in 2026',
+    description: 'The exact formula for LinkedIn posts that stop the scroll — hook, body, CTA. Plus how AI can write these posts for you in 30 seconds.',
+    date: 'March 22, 2026',
+    readTime: '7 min read',
+    tag: 'LinkedIn',
+  },
+  {
     slug: 'best-ai-tools-content-creators-2026',
     title: 'Best AI Tools for Content Creators in 2026',
     description: 'The complete list of AI tools every content creator needs in 2026. From writing to repurposing to scheduling — tools that actually save time and grow your audience.',
