@@ -8,6 +8,14 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'best-ai-tools-content-creators-2026',
+    title: 'Best AI Tools for Content Creators in 2026',
+    description: 'The complete list of AI tools every content creator needs in 2026. From writing to repurposing to scheduling — tools that actually save time and grow your audience.',
+    date: 'March 22, 2026',
+    readTime: '8 min read',
+    tag: 'Tools',
+  },
+  {
     slug: 'how-to-repurpose-blog-post',
     title: 'How to Repurpose One Blog Post into 10 Pieces of Content',
     description: 'Stop writing from scratch every day. Learn the exact system to turn one article into LinkedIn posts, Twitter threads, email newsletters, and more.',
